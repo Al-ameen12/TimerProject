@@ -33,7 +33,7 @@ class Timer:
                 if self.__hours == -1:
                     self.__hours = 23
                     
-
+# Testing the code
 
 timer = Timer(23, 59, 59)
 print(timer)
